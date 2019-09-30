@@ -1,0 +1,8 @@
+postgres
+5432
+
+5431
+openpg
+openpgpwd
+
+odoo puerto 8069
